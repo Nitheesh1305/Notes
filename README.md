@@ -1,3 +1,3 @@
 # Notes
 
-I Will be uploading my hand written notes regarding ML & DL in this respository
+## I Will Be Uploading My Hand Written Notes Regarding ML & DL In This Respository
